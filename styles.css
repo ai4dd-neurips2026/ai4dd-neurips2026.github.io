@@ -242,6 +242,8 @@ body {
 
 .btn-secondary:hover { background: var(--bg-alt); }
 
+.btn-standalone { margin-top: 1.25rem; }
+
 /* Sections */
 .section { padding: 4rem 0; }
 .section-alt { background: var(--bg-alt); }
