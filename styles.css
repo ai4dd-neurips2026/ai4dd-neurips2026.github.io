@@ -274,6 +274,19 @@ body {
 
 .topics-list strong { color: var(--ink); }
 
+.faq-list { margin-top: 1.5rem; }
+
+.faq-item { margin-bottom: 1.75rem; }
+.faq-item:last-child { margin-bottom: 0; }
+
+.faq-question {
+  font-size: 1.05rem;
+  margin: 0 0 0.5rem;
+  color: var(--ink);
+}
+
+.faq-answer { margin: 0; }
+
 .fineprint {
   font-size: 0.85rem;
   color: var(--ink-soft);
